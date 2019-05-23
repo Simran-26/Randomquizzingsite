@@ -122,7 +122,7 @@ function loadQuiz(sub,difficulty){
           choices: ["Mozilla", "Netscape","Opera","Google"],
           correct: 2,
           desc: "Netscape is a brand name associated with the development of the Netscape web browser. It created the JavaScript programming language, the most widely used language for client-side scripting of web pages, to be used in its Netscape browser, at first.",
-          image: "./images/browser.png"    
+          image: "./images/browser.jpg"    
       }
       ];
   }
