@@ -221,7 +221,7 @@ function frame() {
 
   function renderQuestion(i){
   current=i;
-  document.getElementById("question").innerHTML=list[i].question;
+  document.getElementById("question").innerHTML=(i+1)+'. '+list[i].question;
   let flag=0;
   for(let j=0; j<num_choices; j++)
   {
