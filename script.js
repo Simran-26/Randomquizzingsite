@@ -166,6 +166,7 @@ function loadQuiz(sub,difficulty){
       ];
   }
 }
+
 function addElement(parentId, elementTag, elementId, html) {
     // Adds an element to the document
     var p = document.getElementById(parentId);
@@ -376,5 +377,6 @@ else{
     }
     renderQuestion(0);
     }
-}
+
+  }
 proceed_button.addEventListener("click",submit);

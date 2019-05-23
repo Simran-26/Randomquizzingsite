@@ -16,3 +16,6 @@ margin: 25px;
 .quest-img{
 width: 128px;
 }
+.form-check,.form-check-label{
+    cursor: pointer;
+}
