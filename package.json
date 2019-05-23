@@ -1,0 +1,11 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Quiz assignment, to be submitted in 'ACM- League of Code'",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirag Jain",
+  "license": "ISC"
+}
